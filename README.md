@@ -9,7 +9,7 @@
 ## Project Spider-Man Multiverse
 
 <img src="./assets/images/readme.png">
-<video src="./assets/images/tela.mov">
+<video src="./assets/images/tela.mov" />
 
 
 ## Project development in HTML, CSS e JS
